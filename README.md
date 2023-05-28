@@ -1,0 +1,2 @@
+# klaydixware-clean
+Очищеная паста
