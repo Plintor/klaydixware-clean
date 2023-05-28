@@ -5,3 +5,9 @@
 [-] me.klaydix.ware.features.gui.font.CFontReader (CFontReader)
 
 [-] me.klaydix.ware.features.modules.combat.AutoCrystal (AutoCrystal)
+
+# Отдельная благодарность
+
+Котопушке
+
+Teni_
